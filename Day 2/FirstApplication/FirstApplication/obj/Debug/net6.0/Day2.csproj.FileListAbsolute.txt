@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\Day2.exe
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\Day2.deps.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\Day2.runtimeconfig.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\Day2.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\Day2.pdb
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\refint\Day2.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.pdb
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\Day2.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\ref\Day2.dll

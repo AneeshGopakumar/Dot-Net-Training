@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\FirstApplication.exe
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\FirstApplication.deps.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\FirstApplication.runtimeconfig.json
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\FirstApplication.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\bin\Debug\net6.0\FirstApplication.pdb
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\refint\FirstApplication.dll
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.pdb
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\FirstApplication.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FirstApplication\FirstApplication\obj\Debug\net6.0\ref\FirstApplication.dll
