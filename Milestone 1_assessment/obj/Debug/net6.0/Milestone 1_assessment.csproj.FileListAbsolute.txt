@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\bin\Debug\net6.0\Milestone 1_assessment.exe
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\bin\Debug\net6.0\Milestone 1_assessment.deps.json
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\bin\Debug\net6.0\Milestone 1_assessment.runtimeconfig.json
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\bin\Debug\net6.0\Milestone 1_assessment.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\bin\Debug\net6.0\Milestone 1_assessment.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\refint\Milestone 1_assessment.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\Milestone 1_assessment.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Milestone 1_assessment\obj\Debug\net6.0\ref\Milestone 1_assessment.dll
