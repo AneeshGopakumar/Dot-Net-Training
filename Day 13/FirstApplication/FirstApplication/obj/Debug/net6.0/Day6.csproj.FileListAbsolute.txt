@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\bin\Debug\net6.0\Day6.exe
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\bin\Debug\net6.0\Day6.deps.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\bin\Debug\net6.0\Day6.runtimeconfig.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\bin\Debug\net6.0\Day6.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\bin\Debug\net6.0\Day6.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\refint\Day6.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\Day6.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 6\FirstApplication\FirstApplication\obj\Debug\net6.0\ref\Day6.dll

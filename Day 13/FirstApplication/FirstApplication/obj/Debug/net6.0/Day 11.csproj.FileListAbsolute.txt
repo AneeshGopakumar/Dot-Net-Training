@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 11.exe
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 11.deps.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 11.runtimeconfig.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 11.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 11.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\refint\Day 11.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 11.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 11\FirstApplication\FirstApplication\obj\Debug\net6.0\ref\Day 11.dll

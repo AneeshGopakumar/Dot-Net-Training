@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bookstore>
+	<book>
+		<title>Test Book Name 1</title>
+		<author>
+			<first-name>ABC</first-name>
+			<last-name>XYZ</last-name>
+		</author>
+		<price>10</price>
+	</book>
+	<book>
+		<title>Test Book Name 2</title>
+		<author>
+			<first-name>DEF</first-name>
+			<last-name>UVW</last-name>
+		</author>
+		<price>20</price>
+	</book>
+</bookstore>

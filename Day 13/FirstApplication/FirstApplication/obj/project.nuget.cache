@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uTV+gSQUZ5aq6UXci7V+EET1/6rPnz4+LrFYP9Afl40zAqmxKd61uQIkBkLWK/hLyl5NZK1Lxwnt/1X+cmSfdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AneeshGitH\\Day 13\\FirstApplication\\FirstApplication\\Day 13.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
