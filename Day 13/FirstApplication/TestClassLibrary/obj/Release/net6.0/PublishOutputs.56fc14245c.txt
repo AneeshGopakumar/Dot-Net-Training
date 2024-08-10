@@ -1,3 +1,0 @@
-C:\Users\Administrator\source\repos\AneeshGitH\Day 8\FirstApplication\TestClassLibrary\bin\Release\net6.0\publish\TestClassLibrary.dll
-C:\Users\Administrator\source\repos\AneeshGitH\Day 8\FirstApplication\TestClassLibrary\bin\Release\net6.0\publish\TestClassLibrary.deps.json
-C:\Users\Administrator\source\repos\AneeshGitH\Day 8\FirstApplication\TestClassLibrary\bin\Release\net6.0\publish\TestClassLibrary.pdb
