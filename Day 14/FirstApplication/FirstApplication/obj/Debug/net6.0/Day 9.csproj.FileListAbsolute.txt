@@ -1,0 +1,18 @@
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 9.exe
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 9.deps.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 9.runtimeconfig.json
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 9.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\Day 9.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\TestClassLibrary.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\bin\Debug\net6.0\TestClassLibrary.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.csproj.CopyComplete
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\refint\Day 9.dll
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.pdb
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\Day 9.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\AneeshGitH\Day 9\FirstApplication\FirstApplication\obj\Debug\net6.0\ref\Day 9.dll
