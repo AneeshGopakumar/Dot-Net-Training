@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "lg8yOZjDjfy0h5KUrut6g5qVVhDkdx/lZYqqz4YcbGOcUEthflkXPMPYry4OxjnhqTxeou6wVmWmrDUOW/R68Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\AneeshGitH\\Day-24\\SeleniumTest\\SeleniumUsingJSJquery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\selenium.webdriver\\4.24.0\\selenium.webdriver.4.24.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\8.0.4\\system.text.json.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
