@@ -1,0 +1,1 @@
+﻿console.log("Test message from JS file");
